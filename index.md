@@ -11,9 +11,8 @@ services:
 - description: Coaching of an Agile Nature
   heading: Agile Coaching
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: Transforming your Engineering functions.
+  heading: Engineering Transformation
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
 textline: Buildit@Wipro
