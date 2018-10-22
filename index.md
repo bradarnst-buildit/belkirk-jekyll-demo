@@ -2,7 +2,7 @@
 title: Home
 banner_image: "/uploads/2018/10/22/containers-shipyard-2.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: Buildit
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -14,7 +14,7 @@ services:
 - description: Transforming your Engineering functions.
   heading: Engineering Transformation
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: A global network of digital transformation studios.
 textline: Buildit@Wipro
 hero_button:
   text: Learn more
